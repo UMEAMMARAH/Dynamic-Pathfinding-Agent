@@ -24,5 +24,5 @@ This project implements a **Dynamic Pathfinding Agent** capable of navigating a 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Dynamic-Pathfinding-Agent.git
+git clone https://github.com/UMEAMMARAH/Dynamic-Pathfinding-Agent.git
 cd Dynamic-Pathfinding-Agent
